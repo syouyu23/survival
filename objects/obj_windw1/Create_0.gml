@@ -4,3 +4,4 @@ visible = true; // オブジェクトを最初に表示
 move_1=false
 move_2=false
 get_flug=false
+

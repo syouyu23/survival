@@ -1,4 +1,4 @@
-enemy_hp=10
+enemy_hp=30
 image_speed=0
 
 path_start(path_enemymove1,random_range(1,2),2,true)

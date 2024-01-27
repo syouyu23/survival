@@ -11,5 +11,3 @@ cons=skill_grid[# 1,rnd_cons]
 
 instance_create_layer(x,y,"ins_bot",obj_windw1)
 
-pros=string_replace_all(pros,"#","\n")
-cons=string_replace_all(cons,"#","\n")
