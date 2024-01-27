@@ -22,3 +22,15 @@ sword_cooldown -= 1
 if image_index=1{
 	alarm_set(0,10)	
 }
+
+if redeye=true{
+	image_index=2
+}
+
+if shake=true{
+	for (var i = 0; i < 30; i++){
+	x+=random_range(-4,4)
+		
+	}
+shake=false
+}

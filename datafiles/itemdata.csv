@@ -1,3 +1,8 @@
-Damage+5,ENEMYHP+3%
-Cooldown-5,Enemyatack+1
-Damage+10,Damage-2
+Damage+5,小指の爪が#割れる
+Cooldown-5,サイフを落とす
+Damage+10,犬のフンを踏む
+HP+2,家のカギを落とす
+HP+3,深爪する
+Wepon+1,スマホを落とす
+NewMask+1,口内炎ができる
+option+1,蚊にさされる

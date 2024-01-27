@@ -1,5 +1,5 @@
-enemy_hp=30
+enemy_hp=10
 image_speed=0
 
-path_start(path_enemymove1,1,2,true)
+path_start(path_enemymove1,random_range(1,2),2,true)
 alarm_set(1,random_range(90,120))

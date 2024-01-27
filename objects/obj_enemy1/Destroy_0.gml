@@ -1,1 +1,1 @@
-instance_create_layer(0,0,"ins_top",obj_nextarea)
+obj_ctrlgame.enemy-=1
